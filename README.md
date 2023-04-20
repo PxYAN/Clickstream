@@ -17,7 +17,7 @@
 
 9th column: rate, the video rate of the current user.
 
-9th column: current, the location of the video when the user event occurs.
+10th column: current, the location of the video when the user event occurs.
 |                                            | D1   | D2   | D3   | D4   |
 | ------------------------------------------ | ---- | ---- | ---- | ---- |
 | Total number of users                      | 289  | 234  | 220  | 124  |
