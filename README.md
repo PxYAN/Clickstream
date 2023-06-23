@@ -26,3 +26,4 @@
 | Clicks per capita                          | 31.0 | 42.5 | 84.1 | 48.1 |
 | Most clicks                                | 494  | 779  | 3138 | 1637 |
 | Number of users with more than 100  clicks | 18   | 20   | 28   | 13   |
+| time | 65.27   | 123.32   | 169.73   | 113.07   |
